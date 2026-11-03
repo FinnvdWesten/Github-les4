@@ -1,5 +1,7 @@
 # Brownie recept van Finn
 
+Dit recept is voor de smeuige brownies van mijn oma
+
 ## Benodigd heden
 
 ### (Voor een bakvorm van 20x20 cm)
